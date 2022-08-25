@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **javascript, react and react native**
 
-- 📫 How to reach me **qwaedjekum@gmail.com**
+- 📫 How to reach me **qwamicodes@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qbp-b5NedGgiQnn2Dbgzx9vpHY7HeWOG/view?usp=sharing](https://drive.google.com/file/d/1qbp-b5NedGgiQnn2Dbgzx9vpHY7HeWOG/view?usp=sharing)
 
