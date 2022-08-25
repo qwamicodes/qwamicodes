@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **qwamicodes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qbp-b5NedGgiQnn2Dbgzx9vpHY7HeWOG/view?usp=sharing](https://drive.google.com/file/d/1qbp-b5NedGgiQnn2Dbgzx9vpHY7HeWOG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qbp-b5NedGgiQnn2Dbgzx9vpHY7HeWOG/view?usp=sharing](My Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
