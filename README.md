@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/qwamicodes](https://linktr.ee/qwamicodes)
 
-- 💬 Ask me about **javascript, react and react native**
+- 💬 Ask me about **javascript, typescript, react and react native**
 
 - 📫 How to reach me **qwamicodes@gmail.com**
 
