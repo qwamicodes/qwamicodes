@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a ecommerce app for Pricewards**
 
-- 🌱 I’m currently learning **next**
+- 🌱 I’m currently learning **nextjs**
 
 - 👯 I’m looking to collaborate on **frontend and mobile apps**
 
