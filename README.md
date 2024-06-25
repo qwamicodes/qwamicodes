@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/qwamicodes" target="blank"><img src="https://img.shields.io/twitter/follow/qwamicodes?logo=twitter&style=for-the-badge" alt="qwamicodes" /></a> </p>
 
-- 🔭 I’m currently working on **a ecommerce app for Pricewards**
+- 🔭 I’m currently working on **a productivity app for students called StudyW'Mates**
 
 - 🌱 I’m currently learning **nextjs**
 
