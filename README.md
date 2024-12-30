@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **frontend and mobile apps**
 
-- 👨‍💻 All of my projects are available at [theqwamicodes](https://theqwamicodes/netlify.app)
+- 👨‍💻 All of my projects are available at [theqwamicodes](https://theqwamicodes.netlify.app)
 
 - 💬 Ask me about **javascript, typescript, react and react native**
 
