@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwaame Ofori-Adjekum</h1>
-<h3 align="center">A focused and dedicated frontend and native mobile developer, as well as a creative UI/UX designer</h3>
+<h3 align="center">A fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwamicodes&label=Profile%20views&color=0e75b6&style=flat" alt="qwamicodes" /> </p>
 
